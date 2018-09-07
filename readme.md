@@ -1,6 +1,8 @@
 # 7 Billion Humans Optimised Solutions
 This is my solutions to [7 Billion Humans] in the beta stage, the game may have changed and may not reflect the current optimum solutions.
 
+Pull requests are of course welcomed.
+
 ## Current solutions
 | Level | Size | Speed |
 | - | - | - |
